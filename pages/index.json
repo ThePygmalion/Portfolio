@@ -19,7 +19,7 @@
   },
   "about": {
     "title": "About me",
-    "image": "/placeholder.png",
+    "image": "./placeholder.png",
     "primary": "Hello there! I'm an aspiring professional with a passion for cutting-edge technologies that fuel innovation. My expertise spans a diverse spectrum, making me a perfect fit for roles in AI/ML, Web Development, and Cloud/DevOps. In the realm of AI/ML, I wield Python with finesse and navigate frameworks like PyTorch and TensorFlow to craft robust machine learning models. My knack for problem-solving transforms intricate data sets into insightful innovations. When it comes to Web Development, the MERN stack is my playground. Alongside a keen UX sensibility, I weave seamless, interactive, and visually captivating web applications. Utilizing Git and GitHub for streamlined development. My track record as a web development freelancer is a testament to my prowess. My toolkit is versatile, my learning is relentless, and my impact is meaningful. Ready to dive into AI/ML, Web Development, and Cloud/DevOps, I'm excited to leverage my skills and drive transformation in these dynamic domains.",
     "secondary": "I'm good in cooking italian food and i also read some Carl Jung and Fyodor Dostoevsky."
   },
@@ -30,19 +30,19 @@
         "title": "MP4 to MP3 Converter with Scalable Architecture",
         "description": "In this project, I developed a robust and scalable multimedia conversion system that transforms MP4 video files into high-quality MP3 audio files. Leveraging a modern technology stack including Python, Kubernetes, RabbitMQ, MongoDB, and MySQL, I successfully addressed the intricate challenges associated with efficient file conversion and management.",
         "github": "",
-        "image": "/MP4tomp3.png"
+        "image": "./MP4tomp3.png"
       },
       {
 				"title": "Certify - Decentralised Certification System",
 				"description": "In this innovative project, I conceptualized, designed, and implemented a groundbreaking application that revolutionizes traditional certificate management by decentralizing the process and leveraging the transparency and security of blockchain technology. Through the integration of Truffle, Solidity, and JavaScript, I have created a robust and tamper-proof system for issuing, verifying, and storing certificates.",
         "github": "https://github.com/ThePygmalion/innoverse",
-				"image": "/Blockcertify.png"
+				"image": "./Blockcertify.png"
 			},
       {
 				"title": "CryptoMining - Cryptocurrency Mining System",
 				"description": "In this dynamic project, I engineered a web application that offers a cutting-edge monthly mining service, allowing users to effortlessly engage with cryptocurrency mining on our state-of-the-art mining machines. By seamlessly integrating Next.js, React.js, Flask, and PostgreSQL, I have created a robust platform that provides users with a streamlined and transparent experience in the world of digital asset mining.",
         "github": "https://github.com/ThePygmalion/cryptoCloud",
-				"image": "/cyptoMining.png"
+				"image": "./cyptoMining.png"
 			}
     ]
   },

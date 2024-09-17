@@ -21,7 +21,7 @@
     "title": "About me",
     "image": "./placeholder.png",
     "primary": "Hello there! I'm an aspiring professional with a passion for cutting-edge technologies that fuel innovation. My expertise spans a diverse spectrum, making me a perfect fit for roles in AI/ML, Web Development, and Cloud/DevOps. In the realm of AI/ML, I wield Python with finesse and navigate frameworks like PyTorch and TensorFlow to craft robust machine learning models. My knack for problem-solving transforms intricate data sets into insightful innovations. When it comes to Web Development, the MERN stack is my playground. Alongside a keen UX sensibility, I weave seamless, interactive, and visually captivating web applications. Utilizing Git and GitHub for streamlined development. My track record as a web development freelancer is a testament to my prowess. My toolkit is versatile, my learning is relentless, and my impact is meaningful. Ready to dive into AI/ML, Web Development, and Cloud/DevOps, I'm excited to leverage my skills and drive transformation in these dynamic domains.",
-    "secondary": "I'm good in cooking italian food and i also read some Carl Jung and Fyodor Dostoevsky."
+    
   },
   "projects": {
     "title": "Projects",
